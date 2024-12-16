@@ -8,4 +8,4 @@ A modern, responsive website for TheGrappleHub, built using HTML, CSS, and JavaS
 - Class schedules
 
 ## Live Demo
-[https://yourusername.github.io/gym-website](https://emad7474.github.io/TheGrappleHub/)
+[https://emad7474.github.io/TheGrappleHub/](https://emad7474.github.io/TheGrappleHub/)
